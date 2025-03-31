@@ -4,9 +4,9 @@
 
 
 #let fonts = (
-  text: ("Libertinus Serif", "Noto Serif CJK TC", "Noto Color Emoji"),
-  sans: ("Noto Sans", "Noto Sans CJK TC", "Noto Color Emoji"),
-  mono: ("Inconsolata"),
+  text: ("Libertinus Serif"),
+  sans: ("Arial"),
+  mono: ("SF Mono"),
 )
 
 
