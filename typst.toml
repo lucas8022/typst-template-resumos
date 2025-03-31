@@ -1,0 +1,12 @@
+[package]
+name = "lucas"
+version = "1.0.0"
+entrypoint = "lucas.typ"
+authors = ["Lucas Felix <lucas@lucasfelix.cc>"]
+license = "Free"
+description = "Evan's template file for Typst documents."
+homepage = "https://github.com/lucas8022/typst-template-resumos"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
